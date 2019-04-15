@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Arbeitszeiten Manager</string>
+
+    <string name="work_times">Arbeitszeiten</string>
+    <string name="settings">Einstellungen</string>
+
+    <string name="add">Hinzufügen</string>
+    <string name="delete">Entfernen</string>
+    <string name="view">Anzeigen</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+
+    <string name="date">Datum</string>
+    <string name="start_time">Start Zeit</string>
+    <string name="end_time">End Zeit</string>
+    <string name="break_time">Pause Zeit</string>
+    <string name="total_time">Gesamte Zeit</string>
+    <string name="comment">Kommentar</string>
+
+    <string name="deleted">Gelöscht</string>
+
+    <string name="work_time_added">Arbeitszeit hinzugefügt</string>
+    <string name="work_time_deleted">Arbeitszeit gelöscht</string>
+    <string name="work_time_edited">Arbeitszeit bearbeitet</string>
+
+    <string name="backup_created">Backup erstellt</string>
+    <string name="backup_restored">Backup wiederhergestellt</string>
+    <string name="exported">Datenbank exportiert</string>
+    <string name="imported">Datenbank importiert</string>
+
+    <string name="delete_title">Entfernen?</string>
+    <string name="are_you_sure">Bist du dir sicher dass du %1$s aus der Liste entfernen willst?</string>
+
+    <string name="general">Allgemein</string>
+    <string name="night_mode">Nacht Modus</string>
+
+    <string name="default_Values">Standardwerte</string>
+
+    <string name="backup_restore">Sichern und Wiederherstellen</string>
+    <string name="backup_directory">Sicherungs Verzeichnis</string>
+    <string name="backup">Sichern</string>
+    <string name="backup_summary">Datenbank sichern</string>
+    <string name="restore">Wiederherstellen</string>
+    <string name="restore_summary">Datenbank wiederherstellen</string>
+
+    <string name="export_import">Exportieren und Importieren</string>
+    <string name="export_directory">Export Verzeichnis</string>
+    <string name="export">Exportieren</string>
+    <string name="export_summary">Exportiere alle Arbeitszeiten zu csv</string>
+    <string name="import_">Importieren</string>
+    <string name="import_summary">Importiere alle Arbeitszeiten aus csv</string>
+
+    <string name="other">Sonstiges</string>
+    <string name="version">Version</string>
+</resources>
